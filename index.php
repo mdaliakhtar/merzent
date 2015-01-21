@@ -292,27 +292,33 @@
             </div>
             
             <div class="team-members">
+            	<!--
             	<a href="#" target="_blank" class="social-icons linkedin"></a>
                 <a href="https://www.facebook.com/afsar.alam.589" target="_blank" class="social-icons facebook"></a>
-                <a href="https://twitter.com/afsar7446" target="_blank" class="social-icons twitter"></a>            
+                <a href="https://twitter.com/afsar7446" target="_blank" class="social-icons twitter"></a>
+                -->            
                 <div class="member-image"><img src="img/co-founder/afsar.jpg" alt="Afsar Alam" /></div>
                 <h4>Afsar Alam</h4>
                 <p>Co-founder <!--& Chairman--></p>
             </div>
             
             <div class="team-members">
+            	<!--
             	<a href="#" target="_blank" class="social-icons linkedin"></a>
                 <a href="https://www.facebook.com/sumant.kumar.75" target="_blank" class="social-icons facebook"></a>
                 <a href="#" target="_blank" class="social-icons twitter"></a>
+                -->
                 <div class="member-image"><img src="img/co-founder/sumant.jpg" alt="Sumant Kumar" /></div>
                 <h4>Sumant Kumar</h4>
                 <p>Co-founder <!--& MD--></p>
             </div>
             
             <div class="team-members">
+            	<!--
             	<a href="https://www.linkedin.com/in/mdaliakhtar" target="_blank" class="social-icons linkedin"></a>
                 <a href="https://www.facebook.com/AliAkhtarMd" target="_blank" class="social-icons facebook"></a>
                 <a href="https://twitter.com/mdaliakhtar" target="_blank" class="social-icons twitter"></a>
+                -->
                 <div class="member-image"><img src="img/co-founder/ali.jpg" alt="Ali Akhtar Mohammed" /></div>
                 <h4>Ali Akhtar Mohammed</h4>
                 <p>Co-founder <!--& CEO--></p>
